@@ -30,6 +30,7 @@ Build the React frontend (localhost:3000)
 Build the Flask backend (localhost:5000)
 
 ###  Project Structure
+```bash
 docker-fullstack-app/
 │
 ├── backend/               # Flask app
@@ -45,6 +46,7 @@ docker-fullstack-app/
 │
 ├── docker-compose.yml     # Compose config for both services
 └── README.md
+```
 
 ### API Communication
 
